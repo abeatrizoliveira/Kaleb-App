@@ -18,7 +18,7 @@
  | 02     | 01/07/2025 | Concluído |
  | 03     | 20/08/25   | Concluído |
  | 04     | 01/10/25   | Concluído |
- | 05     | 01/11/25   | A fazer |
+ | 05     | 01/11/25   | Concluído |
 
  ## 📚 Índice
 - [✏️ Objetivo do Projeto](#%EF%B8%8F-objetivo-do-projeto)
