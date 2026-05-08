@@ -99,8 +99,8 @@ O objetivo desse trabalho é desenvolver um aplicativo mobile para o exercício 
 - [x] Preparação dos materiais de apresentação (slides finais);
 - [x] Geração da versão final do aplicativo;
 - [x] Criação do Vídeo de Funcionalidades;
-- [ ] Encadernamento da documentação (Relatório Técnico);
-- [ ] Revisão e atualização dos repositórios GitHub.
+- [x] Encadernamento da documentação (Relatório Técnico);
+- [x] Revisão e atualização dos repositórios GitHub.
 
 ## 💪 Competências Desenvolvidas 
 ### Hard Skill (saber tecnológico)
