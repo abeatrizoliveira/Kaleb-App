@@ -11,7 +11,7 @@
     "expo": "~53.0.20",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
-    "react-native": "0.79.5",
+    "react-native": "0.87.1",
     "expo-av": "~15.1.7",
     "expo-font": "~13.3.2",
     "react-native-svg": "15.11.2",
